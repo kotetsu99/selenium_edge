@@ -6,4 +6,4 @@ SeleniumでEdgeブラウザを操作する簡単なプログラムです。
 
 こちらのブログ記事をご確認ください。
 
-https://nine-num-98.blogspot.com/2021/10/seleniumedge-01.html
+https://nine-num-98.blogspot.com/2021/10/selenium-edge-01.html
